@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary400">#ff7043</color>
+    <color name="colorPrimary300">#ff8a65</color>
+    <color name="colorPrimary200">#ffab91</color>
+    <color name="colorPrimary100">#FFCCBC</color>
+    <color name="grey100">#F5F5F5</color>
+    <color name="grey200">#EEEEEE</color>
+    <color name="grey300">#E0E0E0</color>
+    <color name="grey400">#bdbdbd</color>
+    <color name="grey500">#9E9E9E</color>
+    <color name="grey600">#757575</color>
+    <color name="grey700">#616161</color>
+    <color name="grey800">#424242</color>
+    <color name="grey900">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent_black">#66000000</color>
+
+    <!-- Color Pallete -->
+    <color name="greyLight">#9E9E9E</color>
+    <color name="greyMedium">#757575</color>
+    <color name="greyDark">#616161</color>
+
+
+    <!--StateLayoutColors-->
+    <color name="connectedColor">#d0127b00</color>
+    <color name="disconnectedColor">#717274</color>
+    <color name="connectivityColor">#717274</color>
+    <color name="textErrorColor">#3d3d3d</color>
+    <color name="textEmptyColor">#212121</color>
+
+</resources>
