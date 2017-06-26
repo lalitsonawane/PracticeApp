@@ -47,6 +47,7 @@ public class TestParceble extends AsyncTask<String, Integer, Long> {
                     input.close();
                     return null;
                 }
+
                 total += count;
                 if (fileLength > 0)
                     publishProgress((int) (total * 100 / fileLength));
