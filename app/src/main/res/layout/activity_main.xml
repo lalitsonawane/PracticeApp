@@ -61,6 +61,7 @@
             android:layout_gravity="center"
             android:background="@drawable/rounded_cornor_backround_white"
             android:inputType="textCapWords"
+            android:onClick="download"
             android:text="Submit"
             android:textColor="@color/grey600"
             android:textSize="18sp" />
