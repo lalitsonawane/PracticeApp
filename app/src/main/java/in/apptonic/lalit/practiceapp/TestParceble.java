@@ -46,6 +46,7 @@ public class TestParceble extends AsyncTask<String, Integer, Long> {
 
                     input.close();
                     return null;
+
                 }
                 total += count;
                 if (fileLength > 0)
